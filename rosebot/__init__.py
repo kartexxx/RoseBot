@@ -24,7 +24,7 @@ dotenv.load_dotenv()
 
 
 # APIS
-API_ID = os.getenv("API_ID")
+API_ID = os.getenv("1700787431:AAGJgp3RhSOumN-EDTFaV6OPfCk4fGV_fKA")
 API_HASH = os.getenv("API_HASH")
 CC_API = os.getenv("CC_API")
 THECATAPI = os.getenv("THECATAPI")
